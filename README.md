@@ -12,5 +12,3 @@ Libraries and dependancies :
 
 <img width="598" alt="Screenshot 2025-02-22 at 4 46 11 PM" src="https://github.com/user-attachments/assets/9dabaf42-07e7-4cad-a297-9c50f4487655" />
 
-
-
