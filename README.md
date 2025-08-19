@@ -6,7 +6,6 @@ Libraries and dependancies :
 - Numpy
 - Matpllotlib and seaborn
 - Tensorflow for model building
-- Keras
 
 ## The final result graph
 
